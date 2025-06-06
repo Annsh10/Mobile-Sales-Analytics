@@ -3,6 +3,8 @@
 ## 📝 Problem Statement
 Mobile sales businesses often handle large volumes of transactions across regions and devices. However, drawing actionable insights from this raw data can be challenging. This dashboard was built to analyze sales data, customer behavior, and business performance effectively in a visual and intuitive manner.
 
+---
+
 ## 🧾 Dataset Description
 The dataset used in this project includes the following columns:
 - Transaction ID
@@ -89,5 +91,11 @@ This Power BI dashboard enables data-driven decision-making for mobile sales. By
 - Track sales trends by time, city, and model.
 - Identify top-performing brands and customer segments.
 - Compare YoY performance and optimize future strategies.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT-Licence**. ©️
 
 ---
